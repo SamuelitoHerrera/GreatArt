@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\GreatArt\GreatArt\bin\Debug\GreatArt.exe.config
+c:\users\user\documents\visual studio 2013\Projects\GreatArt\GreatArt\bin\Debug\GreatArt.exe
+c:\users\user\documents\visual studio 2013\Projects\GreatArt\GreatArt\bin\Debug\GreatArt.pdb
+c:\users\user\documents\visual studio 2013\Projects\GreatArt\GreatArt\obj\Debug\GreatArt.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\GreatArt\GreatArt\obj\Debug\GreatArt.exe
+c:\users\user\documents\visual studio 2013\Projects\GreatArt\GreatArt\obj\Debug\GreatArt.pdb
